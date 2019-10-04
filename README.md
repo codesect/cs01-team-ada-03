@@ -17,5 +17,4 @@
 ## Contributors
 
 > Add a list of contributors
-> Aimen Aounallah
-> https://github.com/Mizou9999
+> [Aimen Aounallah](https://github.com/Mizou9999)
