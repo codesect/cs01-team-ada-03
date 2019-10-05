@@ -18,4 +18,4 @@
 
 > Add a list of contributors
 
--  [Aimen Aounallah](https://github.com/Mizou9999)
+-  [Adeniyi Femi](https://github.com/f-adeniyi)
